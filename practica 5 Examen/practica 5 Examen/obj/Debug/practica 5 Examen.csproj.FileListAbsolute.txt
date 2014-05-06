@@ -1,0 +1,28 @@
+C:\Users\Ing. Omar\Desktop\praticas programacion\Practica-5\practica 5 Examen\practica 4 Examen\bin\Debug\practica 5 Examen.exe
+C:\Users\Ing. Omar\Desktop\praticas programacion\Practica-5\practica 5 Examen\practica 4 Examen\bin\Debug\practica 5 Examen.pdb
+C:\Users\Ing. Omar\Desktop\praticas programacion\Practica-5\practica 5 Examen\practica 4 Examen\obj\Debug\practica 5 Examen.csprojResolveAssemblyReference.cache
+C:\Users\Ing. Omar\Desktop\praticas programacion\Practica-5\practica 5 Examen\practica 4 Examen\obj\Debug\practica_4_Examen.MainForm.resources
+C:\Users\Ing. Omar\Desktop\praticas programacion\Practica-5\practica 5 Examen\practica 4 Examen\obj\Debug\practica 5 Examen.csproj.GenerateResource.Cache
+C:\Users\Ing. Omar\Desktop\praticas programacion\Practica-5\practica 5 Examen\practica 4 Examen\obj\Debug\practica 5 Examen.exe
+C:\Users\Ing. Omar\Desktop\praticas programacion\Practica-5\practica 5 Examen\practica 4 Examen\obj\Debug\practica 5 Examen.pdb
+C:\Users\Public\Documents\practicas de programacion 3\Practica-5\practica 5 Examen\practica 4 Examen\bin\Debug\practica 5 Examen.exe
+C:\Users\Public\Documents\practicas de programacion 3\Practica-5\practica 5 Examen\practica 4 Examen\bin\Debug\practica 5 Examen.pdb
+C:\Users\Public\Documents\practicas de programacion 3\Practica-5\practica 5 Examen\practica 4 Examen\obj\Debug\practica 5 Examen.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\practicas de programacion 3\Practica-5\practica 5 Examen\practica 4 Examen\obj\Debug\practica_4_Examen.MainForm.resources
+C:\Users\Public\Documents\practicas de programacion 3\Practica-5\practica 5 Examen\practica 4 Examen\obj\Debug\practica 5 Examen.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\practicas de programacion 3\Practica-5\practica 5 Examen\practica 4 Examen\obj\Debug\practica 5 Examen.exe
+C:\Users\Public\Documents\practicas de programacion 3\Practica-5\practica 5 Examen\practica 4 Examen\obj\Debug\practica 5 Examen.pdb
+C:\Users\Public\Documents\practicas de programacion 3\Practica-5\practica 5 Examen\practica 5 Examen\bin\Debug\practica 5 Examen.exe
+C:\Users\Public\Documents\practicas de programacion 3\Practica-5\practica 5 Examen\practica 5 Examen\bin\Debug\practica 5 Examen.pdb
+C:\Users\Public\Documents\practicas de programacion 3\Practica-5\practica 5 Examen\practica 5 Examen\obj\Debug\practica 5 Examen.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\practicas de programacion 3\Practica-5\practica 5 Examen\practica 5 Examen\obj\Debug\practica_4_Examen.MainForm.resources
+C:\Users\Public\Documents\practicas de programacion 3\Practica-5\practica 5 Examen\practica 5 Examen\obj\Debug\practica 5 Examen.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\practicas de programacion 3\Practica-5\practica 5 Examen\practica 5 Examen\obj\Debug\practica 5 Examen.exe
+C:\Users\Public\Documents\practicas de programacion 3\Practica-5\practica 5 Examen\practica 5 Examen\obj\Debug\practica 5 Examen.pdb
+C:\Users\Public\Documents\practicas de programacion 3\practica 5 Examen\practica 5 Examen\bin\Debug\practica 5 Examen.exe
+C:\Users\Public\Documents\practicas de programacion 3\practica 5 Examen\practica 5 Examen\bin\Debug\practica 5 Examen.pdb
+C:\Users\Public\Documents\practicas de programacion 3\practica 5 Examen\practica 5 Examen\obj\Debug\practica 5 Examen.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\practicas de programacion 3\practica 5 Examen\practica 5 Examen\obj\Debug\practica_4_Examen.MainForm.resources
+C:\Users\Public\Documents\practicas de programacion 3\practica 5 Examen\practica 5 Examen\obj\Debug\practica 5 Examen.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\practicas de programacion 3\practica 5 Examen\practica 5 Examen\obj\Debug\practica 5 Examen.exe
+C:\Users\Public\Documents\practicas de programacion 3\practica 5 Examen\practica 5 Examen\obj\Debug\practica 5 Examen.pdb
